@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/abhijeetmahara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetmahara7" height="30" width="40" /></a>
+<a href="https://x.com/AbhisekMah49994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/AbhisekMah49994" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhisek-maharana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisek-maharana/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/abhisekmaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhisekmaharana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/abhisekmaharana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhisekmaharana1" height="30" width="40" /></a>
