@@ -1,5 +1,5 @@
 <!--
-*abhi227070/abhi227070* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*abhisek-13/abhisek-13* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi227070&label=Profile%20views&color=0e75b6&style=flat" alt="abhi227070" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*nhFc1pNVP-o25Bvt.gif" align="right" width = 400px />
 
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi227070&show_icons=true&locale=en&layout=compact" alt="abhi227070" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek-13&show_icons=true&locale=en&layout=compact" alt="abhisek-13" /> </p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=abhi227070&show_icons=true&locale=en" alt="abhi227070" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=abhisek-13&show_icons=true&locale=en" alt="abhisek-13" /> </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi227070&" alt="abhi227070" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek-13&" alt="abhisek-13" /></p>
