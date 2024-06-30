@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abhijit</h1>
+<h1 align="center">Hi 👋, I'm Abhisek</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi227070?tab=repositories](https://github.com/abhi227070?tab=repositories)
 
-- 📫 How to reach me *abhijeetmaharana77@gmail.com*
+- 📫 How to reach me *abhisekmaharana9861@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vuDYa7pViSzMQOjuSj3RhRZWrh8j-hW-/view?usp=sharing](https://drive.google.com/file/d/1vuDYa7pViSzMQOjuSj3RhRZWrh8j-hW-/view?usp=sharing)
 
