@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *abhisekmaharana9861@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vuDYa7pViSzMQOjuSj3RhRZWrh8j-hW-/view?usp=sharing](https://drive.google.com/file/d/1vuDYa7pViSzMQOjuSj3RhRZWrh8j-hW-/view?usp=sharing)
+- 📄 Know about my experiences at [the link](https://drive.google.com/file/d/15SWNOapSvogmbyrF1_dSDM1b1Ro8iOPW/view)
 
 - ⚡ Fun fact *"As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"*
 
