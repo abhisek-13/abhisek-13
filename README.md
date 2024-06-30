@@ -37,15 +37,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/abhijeetmahara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetmahara7" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijeet-maharana-595337242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeet-maharana-595337242/" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/https://www.kaggle.com/abhijeetmaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhijeetmaharana" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhijeetmaharan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhijeetmaharan2" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/https://leetcode.com/abhijeetmaharana77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhijeetmaharana77/" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhijeetmamouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhijeetmamouf" height="30" width="40" /></a>
 </p>
 
