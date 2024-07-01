@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
 
-<img src="https://dribbble.com/shots/5385718-Artificial-Intelligence-Visual-effect-motion/attachments/10840349?mode=media" align="right" width = 300px />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fartificial-intelligence-brain-robot-5828%2F&psig=AOvVaw0jW1M1UdKVIful8HdEZcpp&ust=1719906790555000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOislJuuhYcDFQAAAAAdAAAAABAE" align="right" width = 300px />
 
 - 🔭 I’m currently working on *MLOPs in Generative AI.*
 
