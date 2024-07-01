@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
 
-<img src="https://cdn.dribbble.com/users/678379/screenshots/8536802/media/aab91110e830a16733b00025039a4970.gif" align="right" width = 300px />
+<img src="https://cdn.dribbble.com/users/1373613/screenshots/5385718/siri-____.gif" align="right" width = 300px />
 
 - 🔭 I’m currently working on *MLOPs in Generative AI.*
 
