@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tychecoaching.com%2Fblog%2Fcan-ai-improve-your-work-life&psig=AOvVaw0jW1M1UdKVIful8HdEZcpp&ust=1719906790555000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOislJuuhYcDFQAAAAAdAAAAABAI" align="right" width = 300px />
+<img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" align="right" width = 300px />
 
 - 🔭 I’m currently working on *MLOPs in Generative AI.*
 
