@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*nhFc1pNVP-o25Bvt.gif" align="right" width = 400px />
 
-- 🔭 I’m currently working on *Custom Conversational AI for Industry*
+- 🔭 I’m currently working on *MLOPs in Generative AI.*
 
 - 🌱 I’m currently learning *Generative AI, Langchain, LLM, and Transformers.*
 
